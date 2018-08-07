@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total: 1.5
+  reservation: one
+  minibar: 1.5
+  guest: one
+
+two:
+  total: 1.5
+  reservation: two
+  minibar: 1.5
+  guest: two
